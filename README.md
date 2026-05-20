@@ -24,7 +24,7 @@ Uploaded result assets include aggregate metrics, loss curves, topology diagrams
 - `gradcam.py`: Grad-CAM generation
 - `summarize_results.py`: metric aggregation and t-test summary
 - `export_report_assets.py`: report figures and settings export
-- `脂肪肝二分类实验报告.md`: final Markdown report
+- `脂肪肝二分类实验报告.pdf`: final PDF report
 - `summary/`: non-sensitive report assets and result tables
 
 ## Reproduce
@@ -55,4 +55,3 @@ python run_experiments.py \
   --batch-size 32 \
   --loss weighted_ce
 ```
-
