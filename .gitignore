@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local data and model artifacts
+data/
+outputs/
+outputs_smoke/
+runs/
+*.pt
+*.pth
+*.ckpt
+
+# Private or large archives
+*.zip
+*.tar.gz
+
+# Private-test visualizations contain original test images.
+summary/gradcam/
+
+# OS/editor noise
+.DS_Store
+.idea/
+.vscode/

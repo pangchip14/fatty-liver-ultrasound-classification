@@ -1,0 +1,4 @@
+best_run,best_model,compared_model,compared_run,t,p
+mobilenet_v3_small_seed42_20260520-104326,mobilenet_v3_small,efficientnet_b0,efficientnet_b0_seed42_20260520-105231,2.471162018410528,0.015123998448545195
+mobilenet_v3_small_seed42_20260520-104326,mobilenet_v3_small,mobilenet_v3_small,mobilenet_v3_small_seed42_20260520-104326,0.0,1.0
+mobilenet_v3_small_seed42_20260520-104326,mobilenet_v3_small,resnet18,resnet18_seed42_20260520-103945,1.4882921100461892,0.1397590958040536

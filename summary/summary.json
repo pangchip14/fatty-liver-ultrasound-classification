@@ -1,0 +1,5 @@
+{
+  "best_model_by_mean_f1": "mobilenet_v3_small",
+  "best_single_run_by_test_f1": "mobilenet_v3_small_seed42_20260520-104326",
+  "n_runs": 9
+}
