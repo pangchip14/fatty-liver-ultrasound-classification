@@ -24,3 +24,6 @@ summary/gradcam/
 .DS_Store
 .idea/
 .vscode/
+
+# Local editable report drafts
+脂肪肝二分类实验报告.md
